@@ -13,6 +13,7 @@
 		CDCC014820A39DD200DA881A /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CDCC014620A39DD200DA881A /* SoundBoard.xcdatamodeld */; };
 		CDCC014A20A39DD200DA881A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDCC014920A39DD200DA881A /* Assets.xcassets */; };
 		CDCC014D20A39DD200DA881A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDCC014B20A39DD200DA881A /* LaunchScreen.storyboard */; };
+		CDCC015520A3A1B100DA881A /* SounViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCC015420A3A1B100DA881A /* SounViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDCC014920A39DD200DA881A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDCC014C20A39DD200DA881A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDCC014E20A39DD200DA881A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDCC015420A3A1B100DA881A /* SounViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SounViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CDCC014B20A39DD200DA881A /* LaunchScreen.storyboard */,
 				CDCC014E20A39DD200DA881A /* Info.plist */,
 				CDCC014620A39DD200DA881A /* SoundBoard.xcdatamodeld */,
+				CDCC015420A3A1B100DA881A /* SounViewController.swift */,
 			);
 			path = SoundBoard;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				CDCC014820A39DD200DA881A /* SoundBoard.xcdatamodeld in Sources */,
 				CDCC014220A39DD200DA881A /* ViewController.swift in Sources */,
 				CDCC014020A39DD200DA881A /* AppDelegate.swift in Sources */,
+				CDCC015520A3A1B100DA881A /* SounViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
